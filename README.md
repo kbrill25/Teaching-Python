@@ -9,4 +9,5 @@ Overview of Python, basic data types, and how to work with these data types
 Lesson 2: Conditional Statements.ipynb
 Overview of if, else-if, and else statements.
 
-Lesson 3: Basic Operators   (COMING SOON)
+Lesson 3: Basic Operators.ipynb
+Overview of mathematical operators, comparison operators, logical operators, and assignment operators.
